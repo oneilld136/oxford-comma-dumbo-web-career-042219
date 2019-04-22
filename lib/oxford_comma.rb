@@ -12,4 +12,3 @@
   	array.join(", ")
     end
   end
-end
