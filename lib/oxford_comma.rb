@@ -1,6 +1,7 @@
 
-  array = ["okra"]
+
   def oxford_comma(array)
+      array = ["okra"]
     if array.length == 2
     array[-2] << " and "
     array.join
